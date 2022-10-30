@@ -138,6 +138,7 @@
     <ClCompile Include="bookstore.cpp" />
     <ClCompile Include="chancellery.cpp" />
     <ClCompile Include="keeper.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="textbook.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
